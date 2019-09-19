@@ -2,7 +2,7 @@
 
 ## Description
 
-> A project developed during the “The Complete Javascript Course 2019: Build Real Projects!” course on Udemy.com, which utilizes technologies like Javascript ES6, MVC, AJAX calls with axios, Babel and Webpack.
+> A project developed during the “The Complete Javascript Course 2019: Build Real Projects!” course on Udemy.com, which utilizes technologies like Javascript ES6, MVC, AJAX calls with Axios, Babel and Webpack.
 
 ## Instructions for running locally
 
